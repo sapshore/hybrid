@@ -1,0 +1,26 @@
+{
+  "run": [
+    {
+      "filePath": "/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 294589,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1498556938389
+      }
+    }
+  ],
+  "hybrid": {
+    "dirty": false,
+    "configSaved": true
+  }
+}
